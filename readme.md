@@ -18,13 +18,36 @@
 #### Бэкенд
 
 - Node.js (TypeScript), Polka, Express, Fastify, Nest, ws, Apollo Server
-- MongoDB (Mongoose), PostgreSQL (Sequelize)
+- MongoDB (Mongoose), SQL (Sequelize)
 - Docker
 - Консольные приложения
 - Telegram боты
 - Python (типизированный)
 
+#### Прочее
+
+- Лабораторные и практические работы по программированию
+
 ### Обучение
+
+#### Курсы
+
+- [HTML & CSS. Интерактивный курс](https://gb.ru/certificates/700697)
+- [Инди-курс по HTML и CSS](https://stepik.org/cert/2522606)
+- [Основы веб-верстки с HTML и CSS](https://stepik.org/cert/2506685)
+- [JavaScript для начинающих](https://stepik.org/cert/97493)
+- [Погружение в JavaScript для начинающих](https://stepik.org/cert/2364545)
+- [JavaScript / Frontend. Подготовительный](https://app.rs.school/certificate/2jk0gkd7)
+- [Разработка на Node.js](https://app.rs.school/certificate/x790e32b)
+- [Добрый, добрый Python](https://stepik.org/cert/2252078)
+- [Базовый Python](https://education.vk.company/curriculum/certificates/download/42796/e086f136-652e-42cf-acfa-240fbed870d5)
+- [Поколение Python: курс для начинающих](https://stepik.org/cert/2355375)
+- [Поколение Python: курс для продвинутых](https://stepik.org/cert/2395272)
+- [Инди-курс программирования на Python](https://stepik.org/cert/2689924)
+- [Функциональное программирование на Python](https://stepik.org/cert/2664839)
+- [PHP - первое знакомство](https://stepik.org/cert/2543355)
+- [Введение в SQL](https://stepik.org/cert/2492313)
+- [Введение в SQL](https://stepik.org/cert/2529993)
 
 #### Тесты
 
@@ -43,18 +66,11 @@
 - [GitHub](https://github.com/MihailStar)
 - [WakaTime](https://wakatime.com/@MihailStar)
 
-#### Курсы
-
-- [HTML & CSS. Интерактивный курс](https://gb.ru/certificates/700697)
-- [JavaScript для начинающих](https://stepik.org/cert/97493)
-- [JavaScript / Frontend. Подготовительный](https://app.rs.school/certificate/2jk0gkd7)
-- [Разработка на Node.js](https://app.rs.school/certificate/x790e32b)
-- [Добрый, добрый Python](https://stepik.org/cert/2252078)
-
 ### Хобби
 
-- ~~[Коллекционирование энергетиков](https://docs.google.com/spreadsheets/d/1NsFn4s0EtRIKbg7T8mNV9j59-0Ndt5Gpxg3F3KN-FuE)~~
-- ~~[Просмотр сериалов](https://docs.google.com/spreadsheets/d/1f9vDWYscCjnVthOpENzHdp91fTY1x95NSvwtJRKO8Ao)~~
+- ~~Коллекционирование энергетиков~~
+- ~~Коллекционирование чипсов~~
+- ~~Просмотр сериалов~~
 - В поиске
 
 ---
