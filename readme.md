@@ -68,9 +68,9 @@
 
 ### Хобби
 
-- ~~Коллекционирование энергетиков~~
-- ~~Коллекционирование чипсов~~
-- ~~Просмотр сериалов~~
+- ~~[Коллекционирование энергетиков](https://docs.google.com/spreadsheets/d/1tM1EZaKjp0jVoG38MMF2wyDcdkRwQSj0vn7oZBAbYiY)~~
+- ~~[Коллекционирование чипсов](https://docs.google.com/spreadsheets/d/14I1y8-fIZ4_MOzbhbM5Jf5oFdF4L2WcB7JyuudxO3UQ)~~
+- ~~[Просмотр сериалов](https://docs.google.com/spreadsheets/d/1oW88Ev6JmeWnV11o_fNjChkAIX6taqaBfHqGp7E_1LE)~~
 - В поиске
 
 ---

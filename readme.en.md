@@ -68,9 +68,9 @@ Developer
 
 ### Hobby
 
-- ~~Collecting energy drinks~~
-- ~~Collecting chips~~
-- ~~Watching series~~
+- ~~[Collecting energy drinks](https://docs.google.com/spreadsheets/d/1tM1EZaKjp0jVoG38MMF2wyDcdkRwQSj0vn7oZBAbYiY)~~
+- ~~[Collecting chips](https://docs.google.com/spreadsheets/d/14I1y8-fIZ4_MOzbhbM5Jf5oFdF4L2WcB7JyuudxO3UQ)~~
+- ~~[Watching series](https://docs.google.com/spreadsheets/d/1oW88Ev6JmeWnV11o_fNjChkAIX6taqaBfHqGp7E_1LE)~~
 - In search
 
 ---
